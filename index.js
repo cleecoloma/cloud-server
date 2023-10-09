@@ -11,7 +11,7 @@ const app = express();
 app.use(cors());
 
 app.get('/dogs', (req, res) => {
-  res.send('Dogs are often considered better than cats by some because of their loyalty and strong companionship.');
+  res.send('Dogs are often considered better than cats by some because of their loyalty and strong companionship!');
 });
 
 app.listen(PORT, () => {
