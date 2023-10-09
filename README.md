@@ -16,15 +16,21 @@
 
 > To start server, use: `npm start`
 
-> Set your PORT environment with an .env file
+> Set your PORT environment with an .env file:
 
 ```text
 PORT=3001
 ```
 
+> Send a `GET` request to the following endpoint(s):
+
+```text
+/dogs
+```
+
 ## Server Links
-[GUI Deploy](https://github.com/cleecoloma/code-academy-parcel-service/pull/3)
-[CLI Deploy](https://github.com/cleecoloma/code-academy-parcel-service/pull/2)
+[GUI Deploy](http://coloma-cloud-server.us-west-2.elasticbeanstalk.com/)
+[CLI Deploy](http://cloud-server-cli-env.eba-sndz9uyy.us-west-2.elasticbeanstalk.com/)
 
 ## Contributors
 * Chester Lee Coloma
