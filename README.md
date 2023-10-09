@@ -29,7 +29,11 @@ PORT=3001
 ```
 
 ## Server Links
+
+### Task 1
 [GUI Deploy](http://coloma-cloud-server.us-west-2.elasticbeanstalk.com/)
+
+### Task 2
 [CLI Deploy](http://cloud-server-cli-env.eba-sndz9uyy.us-west-2.elasticbeanstalk.com/)
 
 ## Contributors
